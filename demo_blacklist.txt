@@ -1,0 +1,11 @@
+# Blacklist Data File
+# Format: id|value|type|createTime|reason|expiryTime
+# Created: 2026-04-18 09:27:40
+#
+da2b691a-e130-4e71-b615-be1073e74bf9|192.168.1.100|IP|2026-04-18 09:27:40|恶意扫描|
+c53065c4-ad51-4f1a-a38d-6f794ed19eb7|10.0.0.50|IP|2026-04-18 09:27:40|DDoS攻击|
+c6eba963-50a3-4dc0-bcaa-7cbb09902f48|spammer_bot|USERNAME|2026-04-18 09:27:40|自动垃圾邮件|
+086b000d-9b5b-411b-9963-9aa979f767c1|spam@evil.com|EMAIL|2026-04-18 09:27:40|垃圾邮件发送者|
+35fa1717-2af2-4756-9d82-5ba925bbb219|phishing@scam.com|EMAIL|2026-04-18 09:27:40|钓鱼邮件|
+44209524-fd6f-4a93-a1f2-11fe24c60508|DEVICE-001|DEVICE_ID|2026-04-18 09:27:40|恶意设备|
+35750ab3-d55d-481a-a5b0-99ef66459bd5|future@test.com|EMAIL|2026-04-18 09:27:40|测试未来过期|2026-04-19 09:27:40

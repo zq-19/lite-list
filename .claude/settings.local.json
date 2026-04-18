@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java:*)",
+      "Bash(javac:*)",
+      "Bash(ls -la *.txt *.md)"
+    ]
+  }
+}

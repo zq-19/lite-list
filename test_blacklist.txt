@@ -1,0 +1,6 @@
+# Blacklist Data File
+# Format: id|value|type|createTime|reason|expiryTime
+# Created: 2026-04-18 09:27:03
+#
+db9ffde3-663d-40d2-8ddb-79f08b43372e|192.168.1.100|IP|2026-04-18 09:27:03|∂Ò“‚∑√Œ |
+bf4600d2-5f18-472c-9c24-ae422ad6ee28|spam@example.com|EMAIL|2026-04-18 09:27:03|¿¨ª¯” º˛|
